@@ -1,5 +1,5 @@
 import * as S from "./styles"
-import Logo from "../../assets/truck.svg"
+import Logo from "../../assets/LOGO_FLOR.png"
 
 export function Header() {
   return (

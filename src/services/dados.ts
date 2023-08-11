@@ -1,32 +1,28 @@
+import azaleia from "../assets/AZALEIA.jpeg"
+import begonia from "../assets/BEGONIA.jpg"
+import camelia from "../assets/CAMELIA.jpeg"
+import cravo from "../assets/CRAVO.jpg"
+
+
 export const dados = [
   {
     id: 1,
-    data: "23/06/2023 07:00:00",
-    titulo: "Aula",
-    mensagem: "Componentes"
+    nome: "AZALEIA",
+    Image: azaleia
   },
   {
     id: 2,
-    data: "23/06/2023 07:10:00",
-    titulo: "Aula Web",
-    mensagem: "Serviços"
+    nome: "BEGONIA",
+    Image: begonia
   },
   {
     id: 3,
-    data: "23/06/2023 07:20:00",
-    titulo: "Aula React",
-    mensagem: "Rotas"
+    nome: "CAMELIA",
+    Image: camelia
   },
   {
     id: 4,
-    data: "23/06/2023 07:30:00",
-    titulo: "Aula React Web",
-    mensagem: "Estilos"
-  },
-  {
-    id: 5,
-    data: "23/06/2023 07:30:00",
-    titulo: "Aula React Web",
-    mensagem: "Estilos"
+    nome: "CRAVO",
+    Image: cravo
   },
 ]
